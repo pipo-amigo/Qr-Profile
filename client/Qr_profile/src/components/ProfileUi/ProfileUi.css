@@ -1,0 +1,78 @@
+
+
+.coverXpic .coverPhoto img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover; 
+    object-position: center; 
+}
+.coverXpic .ProfilePicture img {
+    position: absolute;
+    top: 150px;
+    left:50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; 
+    object-fit: cover;
+    z-index: 1;
+}
+
+.coverXpic{
+    position: relative;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.TwoSides{
+    display: flex;
+    margin: 20px;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+.leftSide,.rightSide{
+    flex: 1;
+}
+.SocialMediaAndName h1{
+    width: clamp(100px,300px,500px);
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 6px;
+    margin-left: 10px;
+    
+}
+.SocialMediaAndName{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.SocialMediaAndName a{
+    font-size: 70px;
+    cursor: pointer;
+}
+.Fb{
+    color:#0165E1;
+}
+.Ig{
+    color: #e6a140;
+}
+.Lin{
+    color:  #0A66C2;
+}
+.infoDiv{
+    border-radius: 20px;
+    padding: 20px;
+}
+.leftSide{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.bottomSide{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}

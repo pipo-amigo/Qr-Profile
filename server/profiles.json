@@ -1,0 +1,119 @@
+[
+  {
+    "coverPhoto": "https://coverUrl.com",
+    "ProfilePicture": "https://coverUrl.com",
+    "ThemeColor": "#fff",
+    "BackgroundColor": "#ffffff",
+    "FrontgroundColor": "#000000",
+    "UserName": "Ghassen Chebbi",
+    "faceBookLink": "https://www.facebook.com/profile.php?id=61562504914743",
+    "instagramLink": "https://www.instagram.com/ghassen_chebbi_7/",
+    "twitterLink": "https://x.com/chbikghassen",
+    "linkedInLink": "https://www.linkedin.com/in/ghassen-chebbi-73295b316/",
+    "Email": "ghassen.chebbi.dev@gmail.com",
+    "PhoneNumber": "29010114",
+    "Address": "https://maps.app.goo.gl/6nDNApHfsHgRyS6W7",
+    "Hobbies": [
+      "Wrestling",
+      "Jiu-Jitsu",
+      "Mixed Martial Arts (MMA)",
+      "Playing Rocket Game",
+      "Coding"
+    ],
+    "Skills": [
+      "Flutter development",
+      "Firebase Cloud Messaging",
+      "Node.js",
+      "React.js",
+      "HTML & CSS",
+      "JavaScript (Smooth Scrolling, DOM Manipulation)",
+      "Database Management (Firebase)"
+    ],
+    "Projects": [
+      "Movie Randomizer - A React project fetching random movie titles from the Movie Database API.",
+      "Profile Creator - A React app for creating professional profiles with custom styling and social links.",
+      "Node.js Video Recorder - A Node.js application for recording videos and integrating with Firebase for data storage."
+    ],
+    "AboutMe": "I am a passionate developer with interests in Flutter, Node.js, React.js, and Firebase. I also enjoy wrestling, jiu-jitsu, and MMA in my free time, and love experimenting with new technologies in the world of web development.",
+    "id": "a1ee9a30-9a81-47b6-b613-cecdf3ae1575",
+    "profileLink": "https://localhost:3000/profiles/a1ee9a30-9a81-47b6-b613-cecdf3ae1575"
+  },
+  {
+    "coverPhoto": "https://coverUrl.com",
+    "ProfilePicture": "https://coverUrl.com",
+    "ThemeColor": "#f11",
+    "BackgroundColor": "#f43",
+    "FrontgroundColor": "#000000",
+    "UserName": "Ghassen Chebbi",
+    "faceBookLink": "https://www.facebook.com/profile.php?id=61562504914743",
+    "instagramLink": "https://www.instagram.com/ghassen_chebbi_7/",
+    "twitterLink": "https://x.com/chbikghassen",
+    "linkedInLink": "https://www.linkedin.com/in/ghassen-chebbi-73295b316/",
+    "Email": "ghassen.chebbi.dev@gmail.com",
+    "PhoneNumber": "29010114",
+    "Address": "https://maps.app.goo.gl/6nDNApHfsHgRyS6W7",
+    "Hobbies": [
+      "Wrestling",
+      "Jiu-Jitsu",
+      "Mixed Martial Arts (MMA)",
+      "Playing Rocket Game",
+      "Coding"
+    ],
+    "Skills": [
+      "Flutter development",
+      "Firebase Cloud Messaging",
+      "Node.js",
+      "React.js",
+      "HTML & CSS",
+      "JavaScript (Smooth Scrolling, DOM Manipulation)",
+      "Database Management (Firebase)"
+    ],
+    "Projects": [
+      "Movie Randomizer - A React project fetching random movie titles from the Movie Database API.",
+      "Profile Creator - A React app for creating professional profiles with custom styling and social links.",
+      "Node.js Video Recorder - A Node.js application for recording videos and integrating with Firebase for data storage."
+    ],
+    "AboutMe": "I am a passionate developer with interests in Flutter, Node.js, React.js, and Firebase. I also enjoy wrestling, jiu-jitsu, and MMA in my free time, and love experimenting with new technologies in the world of web development.",
+    "id": "4016e8a9-003a-413a-8a57-d6b462cb2d01",
+    "url": "https://localhost:3000/profiles/4016e8a9-003a-413a-8a57-d6b462cb2d01"
+  },
+  {
+    "coverPhoto": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.3vr6gK0_9gwzyjmbvC47jwHaCv%26pid%3DApi&f=1&ipt=2051ed3e7e236a3384a519fd52e0b2773409edcffc07549f8a6a182815226a26&ipo=images",
+    "ProfilePicture": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fcool-profile-picture-paper-bag-head-4co57dtwk64fb7lv.jpg&f=1&nofb=1&ipt=fdd519d26264820658d8973b8f57a68d0eb64641d4337a79df4b83175187eda2&ipo=images",
+    "ThemeColor": "#00ff00",
+    "BackgroundColor": "#ff00ff",
+    "FrontgroundColor": "#FFFF",
+    "UserName": "Ghassen Chebbi",
+    "faceBookLink": "https://www.facebook.com/profile.php?id=61562504914743",
+    "instagramLink": "https://www.instagram.com/ghassen_chebbi_7/",
+    "twitterLink": "https://x.com/chbikghassen",
+    "linkedInLink": "https://www.linkedin.com/in/ghassen-chebbi-73295b316/",
+    "Email": "ghassen.chebbi.dev@gmail.com",
+    "PhoneNumber": "29010114",
+    "Address": "https://maps.app.goo.gl/6nDNApHfsHgRyS6W7",
+    "Hobbies": [
+      "Wrestling",
+      "Jiu-Jitsu",
+      "Mixed Martial Arts (MMA)",
+      "Playing Rocket Game",
+      "Coding"
+    ],
+    "Skills": [
+      "Flutter development",
+      "Firebase Cloud Messaging",
+      "Node.js",
+      "React.js",
+      "HTML & CSS",
+      "JavaScript (Smooth Scrolling, DOM Manipulation)",
+      "Database Management (Firebase)"
+    ],
+    "Projects": [
+      "Movie Randomizer - A React project fetching random movie titles from the Movie Database API.",
+      "Profile Creator - A React app for creating professional profiles with custom styling and social links.",
+      "Node.js Video Recorder - A Node.js application for recording videos and integrating with Firebase for data storage."
+    ],
+    "AboutMe": "I am a passionate developer with interests in Flutter, Node.js, React.js, and Firebase. I also enjoy wrestling, jiu-jitsu, and MMA in my free time, and love experimenting with new technologies in the world of web development.",
+    "id": "83101e2a-525a-47e9-be4f-e9affde6cb8b",
+    "url": "https://localhost:3000/profiles/83101e2a-525a-47e9-be4f-e9affde6cb8b"
+  }
+]
